@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Milind Udbhav</h1>
 <h3 align="center">A computer science student looking for an opportunity to gain experience and gain real life experience.</h3>
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
+<img align="right" alt="Coding" width="400" src="https://giphy.com/explore/computer-code.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=milind325&label=Profile%20views&color=0e75b6&style=flat" alt="milind325" /> </p>
 
